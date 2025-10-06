@@ -1,0 +1,192 @@
+[
+  {
+    "id": "PLY-001",
+    "name": "Lionel Messi",
+    "description": "Argentijnse aanvaller en zesvoudig Ballon d'Or-winnaar. Bekend om zijn dribbels, passes en vrije trappen.",
+    "age": 37,
+    "isActive": true,
+    "birthDate": "1987-06-24",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/messi.jpg",
+    "position": "Forward",
+    "skills": ["Dribbling", "Vision", "Finishing"],
+    "club": {
+      "id": "CLUB-007",
+      "name": "Inter Miami CF",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/miami.jpg",
+      "foundedYear": 2018,
+      "stadium": "Chase Stadium",
+      "country": "United States"
+    }
+  },
+  {
+    "id": "PLY-002",
+    "name": "Cristiano Ronaldo",
+    "description": "Portugese sterspeler, recordhouder internationale goals. Bekend om zijn kracht, discipline en sprongkracht.",
+    "age": 39,
+    "isActive": true,
+    "birthDate": "1985-02-05",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/ronaldo.jpg",
+    "position": "Forward",
+    "skills": ["Finishing", "Heading", "Speed"],
+    "club": {
+      "id": "CLUB-004",
+      "name": "Al Nassr",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/alnassr.jpg",
+      "foundedYear": 1955,
+      "stadium": "Al-Awwal Park",
+      "country": "Saudi Arabia"
+    }
+  },
+  {
+    "id": "PLY-003",
+    "name": "Kylian Mbappé",
+    "description": "Franse aanvaller met explosieve snelheid en precisie. Wereldkampioen 2018 en ster van Real Madrid.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-12-20",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/mbappe.jpg",
+    "position": "Forward",
+    "skills": ["Acceleration", "Finishing", "Dribbling"],
+    "club": {
+      "id": "CLUB-002",
+      "name": "Real Madrid CF",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/madrid.jpg",
+      "foundedYear": 1902,
+      "stadium": "Santiago Bernabéu Stadium",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": "PLY-004",
+    "name": "Pedri González",
+    "description": "Spaanse middenvelder bekend om zijn kalmte, precisie en spelinzicht. Een van Barça’s grootste talenten.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "2002-11-25",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/pedri.jpg",
+    "position": "Midfielder",
+    "skills": ["Ball control", "Creativity", "Composure"],
+    "club": {
+      "id": "CLUB-001",
+      "name": "FC Barcelona",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/barcelona.jpg",
+      "foundedYear": 1899,
+      "stadium": "Spotify Camp Nou",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": "PLY-005",
+    "name": "Neymar Jr.",
+    "description": "Braziliaanse aanvaller met ongekende techniek en flair. Bekend van zijn tijd bij Santos, Barcelona en PSG.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1992-02-05",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/neymar.jpg",
+    "position": "Forward",
+    "skills": ["Dribbling", "Creativity", "Agility"],
+    "club": {
+      "id": "CLUB-009",
+      "name": "Santos FC",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/santos.jpg",
+      "foundedYear": 1912,
+      "stadium": "Estádio Urbano Caldeira",
+      "country": "Brazil"
+    }
+  },
+  {
+    "id": "PLY-006",
+    "name": "Paul Pogba",
+    "description": "Franse middenvelder met kracht, techniek en flair. Bekend om zijn tijd bij Juventus en Manchester United.",
+    "age": 32,
+    "isActive": false,
+    "birthDate": "1993-03-15",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/pogba.jpg",
+    "position": "Midfielder",
+    "skills": ["Long passing", "Strength", "Vision"],
+    "club": {
+      "id": "CLUB-006",
+      "name": "AS Monaco",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/monaco.jpg",
+      "foundedYear": 1924,
+      "stadium": "Stade Louis II",
+      "country": "France"
+    }
+  },
+  {
+    "id": "PLY-007",
+    "name": "Lamine Yamal",
+    "description": "Spaanse vleugelspeler van FC Barcelona. Bekend om zijn snelheid, creativiteit en volwassen spel voor zijn leeftijd.",
+    "age": 17,
+    "isActive": true,
+    "birthDate": "2007-07-13",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/yamal.jpg",
+    "position": "Forward",
+    "skills": ["Speed", "Dribbling", "Creativity"],
+    "club": {
+      "id": "CLUB-001",
+      "name": "FC Barcelona",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/barcelona.jpg",
+      "foundedYear": 1899,
+      "stadium": "Spotify Camp Nou",
+      "country": "Spain"
+    }
+  },
+  {
+    "id": "PLY-008",
+    "name": "Harry Kane",
+    "description": "Engelse topscorer met klinische afwerking. Aanvoerder van Engeland en spits van Bayern München.",
+    "age": 32,
+    "isActive": true,
+    "birthDate": "1993-07-28",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/kane.jpg",
+    "position": "Forward",
+    "skills": ["Finishing", "Heading", "Positioning"],
+    "club": {
+      "id": "CLUB-008",
+      "name": "FC Bayern München",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/bayern.jpg",
+      "foundedYear": 1900,
+      "stadium": "Allianz Arena",
+      "country": "Germany"
+    }
+  },
+  {
+    "id": "PLY-009",
+    "name": "Erling Haaland",
+    "description": "Noorse spits met brute kracht en dodelijke afwerking. Sleutelfiguur bij Manchester City.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "2000-07-21",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/haaland.jpg",
+    "position": "Forward",
+    "skills": ["Finishing", "Strength", "Positioning"],
+    "club": {
+      "id": "CLUB-003",
+      "name": "Manchester City",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/mancity.jpg",
+      "foundedYear": 1880,
+      "stadium": "Etihad Stadium",
+      "country": "England"
+    }
+  },
+  {
+    "id": "PLY-010",
+    "name": "Virgil van Dijk",
+    "description": "Nederlandse verdediger met sterke kopkracht en leiderschap. Aanvoerder van Liverpool FC.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1991-07-08",
+    "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/vandijk.jpg",
+    "position": "Defender",
+    "skills": ["Defending", "Heading", "Leadership"],
+    "club": {
+      "id": "CLUB-005",
+      "name": "Liverpool FC",
+      "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/liverpool.jpg",
+      "foundedYear": 1892,
+      "stadium": "Anfield",
+      "country": "England"
+    }
+  }
+]

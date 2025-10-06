@@ -1,0 +1,74 @@
+[
+  {
+    "id": "CLUB-001",
+    "name": "FC Barcelona",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/barcelona.jpg",
+    "foundedYear": 1899,
+    "stadium": "Spotify Camp Nou",
+    "country": "Spain"
+  },
+  {
+    "id": "CLUB-002",
+    "name": "Real Madrid CF",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/madrid.jpg",
+    "foundedYear": 1902,
+    "stadium": "Santiago Bernabéu Stadium",
+    "country": "Spain"
+  },
+  {
+    "id": "CLUB-003",
+    "name": "Manchester City",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/mancity.jpg",
+    "foundedYear": 1880,
+    "stadium": "Etihad Stadium",
+    "country": "England"
+  },
+  {
+    "id": "CLUB-004",
+    "name": "Al Nassr",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/alnassr.jpg",
+    "foundedYear": 1955,
+    "stadium": "Al-Awwal Park",
+    "country": "Saudi Arabia"
+  },
+  {
+    "id": "CLUB-005",
+    "name": "Liverpool FC",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/liverpool.jpg",
+    "foundedYear": 1892,
+    "stadium": "Anfield",
+    "country": "England"
+  },
+  {
+    "id": "CLUB-006",
+    "name": "AS Monaco",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/monaco.jpg",
+    "foundedYear": 1924,
+    "stadium": "Stade Louis II",
+    "country": "France"
+  },
+  {
+    "id": "CLUB-007",
+    "name": "Inter Miami CF",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/miami.jpg",
+    "foundedYear": 2018,
+    "stadium": "Chase Stadium",
+    "country": "United States"
+  },
+  {
+    "id": "CLUB-008",
+    "name": "FC Bayern München",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/bayern.jpg",
+    "foundedYear": 1900,
+    "stadium": "Allianz Arena",
+    "country": "Germany"
+  },
+  {
+    "id": "CLUB-009",
+    "name": "Santos FC",
+    "logoUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-LSLVM/main/images/santos.jpg",
+    "foundedYear": 1912,
+    "stadium": "Estádio Urbano Caldeira",
+    "country": "Brazil"
+  }
+]
